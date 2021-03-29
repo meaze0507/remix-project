@@ -5,7 +5,7 @@ Release managers are responsible for the release management lifecycle, focusing 
 # Steps of Release Management
 
 ## Release planning: 
-In this stage, release manager will elaborate a plan for the comming release. 
+In this stage, release manager will elaborate a plan for the coming release. 
 Together with the team, the release manager will form a list of issues and PRs that should be addressed during the release.
 More generally and a non negligeable part of the planning is to properly ensure that bugs, issues that weren't totally identified in the roadmap, and the roadmap issues are still being processed as they should.
 
