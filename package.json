@@ -224,7 +224,7 @@
     "babel-jest": "25.1.0",
     "babel-plugin-add-module-exports": "^1.0.2",
     "babel-plugin-fast-async": "^6.1.2",
-    "babel-plugin-module-resolver": "^4.0.0",
+    "babel-plugin-module-resolver": "^5.0.0",
     "babel-plugin-transform-object-rest-spread": "^6.26.0",
     "babel-plugin-yo-yoify": "^2.0.0",
     "babel-preset-env": "^1.7.0",
